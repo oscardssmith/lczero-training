@@ -8,7 +8,7 @@ Install the requirements under `tf/requirements.txt`. And call `./init.sh` to co
 
 ## Data preparation
 
-In order to start a training session you first need to download trainingdata from http://lczero.org/training_data. This data is packed in tar.gz balls each containing 10'000 games or chunks as we call them. Preparing data requires the following steps:
+In order to start a training session you first need to download trainingdata from https://storage.lczero.org/files/training_data/. This data is packed in tar.gz balls each containing 10'000 games or chunks as we call them. Preparing data requires the following steps:
 
 ```
 tar -xzf games11160000.tar.gz
